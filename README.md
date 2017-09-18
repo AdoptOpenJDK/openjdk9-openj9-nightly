@@ -1,2 +1,2 @@
 # openjdk9-openj9-nightly
-openj9 nightly repo
+Eclipse openj9 nightly repo
