@@ -62,6 +62,38 @@
       "created_at": "2018-04-26T11:49:23Z",
       "updated_at": "2018-04-26T11:49:23Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9%2B181-20180426/OpenJDK9-OPENJ9_ppc64_AIX_20180426.sha256.txt"
+    },
+    {
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-openj9-nightly/releases/assets/6982314",
+      "id": 6982314,
+      "name": "OpenJDK9-OPENJ9_ppc64_AIX_20180426.tar.gz",
+      "label": "",
+      "uploader": {
+        "login": "adoptopenjdk-github-bot",
+        "id": 26602665,
+        "avatar_url": "https://avatars1.githubusercontent.com/u/26602665?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/adoptopenjdk-github-bot",
+        "html_url": "https://github.com/adoptopenjdk-github-bot",
+        "followers_url": "https://api.github.com/users/adoptopenjdk-github-bot/followers",
+        "following_url": "https://api.github.com/users/adoptopenjdk-github-bot/following{/other_user}",
+        "gists_url": "https://api.github.com/users/adoptopenjdk-github-bot/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/adoptopenjdk-github-bot/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/adoptopenjdk-github-bot/subscriptions",
+        "organizations_url": "https://api.github.com/users/adoptopenjdk-github-bot/orgs",
+        "repos_url": "https://api.github.com/users/adoptopenjdk-github-bot/repos",
+        "events_url": "https://api.github.com/users/adoptopenjdk-github-bot/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/adoptopenjdk-github-bot/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "content_type": "application/gzip",
+      "state": "uploaded",
+      "size": 225153319,
+      "download_count": 0,
+      "created_at": "2018-04-26T11:49:24Z",
+      "updated_at": "2018-04-26T12:10:53Z",
+      "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9%2B181-20180426/OpenJDK9-OPENJ9_ppc64_AIX_20180426.tar.gz"
     }
   ],
   "tarball_url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-openj9-nightly/tarball/jdk-9+181-20180426",
