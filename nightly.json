@@ -155,7 +155,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 225153319,
-        "download_count": 0,
+        "download_count": 1,
         "created_at": "2018-04-26T11:49:24Z",
         "updated_at": "2018-04-26T12:10:53Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9%2B181-20180426/OpenJDK9-OPENJ9_ppc64_AIX_20180426.tar.gz"
@@ -385,7 +385,7 @@
         "content_type": "application/gzip",
         "state": "uploaded",
         "size": 225147081,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2018-04-25T11:49:00Z",
         "updated_at": "2018-04-25T11:52:19Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9%2B181-20180425/OpenJDK9-OPENJ9_ppc64_AIX_20180425.tar.gz"
