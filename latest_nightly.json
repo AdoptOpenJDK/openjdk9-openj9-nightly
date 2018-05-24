@@ -160,8 +160,8 @@
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9%2B181-20180524/OpenJDK9-OPENJ9_ppc64_AIX_20180524.tar.gz"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-openj9-nightly/releases/assets/7281673",
-      "id": 7281673,
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-openj9-nightly/releases/assets/7295139",
+      "id": 7295139,
       "name": "OpenJDK9-OPENJ9_x64_Linux_20180524.sha256.txt",
       "label": "",
       "uploader": {
@@ -186,14 +186,14 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 108,
-      "download_count": 3,
-      "created_at": "2018-05-23T23:21:00Z",
-      "updated_at": "2018-05-23T23:21:00Z",
+      "download_count": 0,
+      "created_at": "2018-05-24T21:54:05Z",
+      "updated_at": "2018-05-24T21:54:05Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9%2B181-20180524/OpenJDK9-OPENJ9_x64_Linux_20180524.sha256.txt"
     },
     {
-      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-openj9-nightly/releases/assets/7281674",
-      "id": 7281674,
+      "url": "https://api.github.com/repos/AdoptOpenJDK/openjdk9-openj9-nightly/releases/assets/7295140",
+      "id": 7295140,
       "name": "OpenJDK9-OPENJ9_x64_Linux_20180524.tar.gz",
       "label": "",
       "uploader": {
@@ -217,10 +217,10 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 211440364,
-      "download_count": 10,
-      "created_at": "2018-05-23T23:21:01Z",
-      "updated_at": "2018-05-23T23:21:16Z",
+      "size": 211466320,
+      "download_count": 0,
+      "created_at": "2018-05-24T21:54:07Z",
+      "updated_at": "2018-05-24T21:54:25Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9%2B181-20180524/OpenJDK9-OPENJ9_x64_Linux_20180524.tar.gz"
     },
     {
