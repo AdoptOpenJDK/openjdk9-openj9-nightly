@@ -63,7 +63,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 109,
-        "download_count": 3,
+        "download_count": 4,
         "created_at": "2018-07-12T15:20:00Z",
         "updated_at": "2018-07-12T15:20:00Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9.0.4%2B12-201807121247/OpenJDK9-OPENJ9_ppc64le_Linux_201807121247.sha256.txt"
@@ -443,7 +443,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 107,
-        "download_count": 17,
+        "download_count": 18,
         "created_at": "2018-07-11T11:58:51Z",
         "updated_at": "2018-07-11T11:58:51Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9.0.4%2B12-201807111247/OpenJDK9-OPENJ9_s390x_Linux_201807111247.sha256.txt"
@@ -823,7 +823,7 @@
         "content_type": "text/plain",
         "state": "uploaded",
         "size": 105,
-        "download_count": 19,
+        "download_count": 20,
         "created_at": "2018-07-11T04:18:16Z",
         "updated_at": "2018-07-11T04:18:16Z",
         "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9.0.4%2B12-201807101247/OpenJDK9-OPENJ9_x64_Linux_201807101247.sha256.txt"
