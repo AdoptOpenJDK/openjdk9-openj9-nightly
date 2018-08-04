@@ -164,7 +164,7 @@
       "content_type": "application/zip",
       "state": "uploaded",
       "size": 213843684,
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2018-08-04T13:48:22Z",
       "updated_at": "2018-08-04T13:48:45Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9.0.4%2B12-201808041512/OpenJDK9-OPENJ9_x64_Windows_201808041512.zip"
