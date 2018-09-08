@@ -130,7 +130,7 @@
       "content_type": "text/plain",
       "state": "uploaded",
       "size": 107,
-      "download_count": 246,
+      "download_count": 248,
       "created_at": "2018-08-12T23:52:46Z",
       "updated_at": "2018-08-12T23:52:46Z",
       "browser_download_url": "https://github.com/AdoptOpenJDK/openjdk9-openj9-nightly/releases/download/jdk-9.0.4%2B12-201808121458/OpenJDK9-OPENJ9_s390x_Linux_201808121458.sha256.txt"
